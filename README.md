@@ -1,6 +1,24 @@
 # MortgageCalculator
 
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
+
+
+This is a responsive mortgage calculator web application built with Angular 19. It allows users to estimate their monthly mortgage payments by adjusting purchase price, down payment, interest rate, and loan term.
+
+## Features
+
+- Real-time calculation of loan amount and monthly payment
+- Interactive sliders for inputs
+- Responsive layout for mobile and desktop
+- Clean UI inspired by real-world financial tools
+
+## Tech Stack
+
+- Angular 19 (Standalone Component Architecture)
+- TypeScript
+- CSS (custom, mobile-first)
+- Git for version control
 
 ## Development server
 
